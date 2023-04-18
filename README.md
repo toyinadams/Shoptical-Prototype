@@ -4,11 +4,10 @@ The application simulates a store view and its basic functionality with no endpo
 A user can browse through a selection of eyeglass frames of varying colours and add to their cart from a simulated inventory. Once the users checkouts, their receipt will be displayed and the application will terminate.
 
 ## Files:
----------------
 * CustomColor.java
 * Inventory.java
 * Product.java
 * ProductStockContainer
 * ShoppingCart.java
 * StoreManager.java
-* StoreView.java
+* StoreView.java (Main class)
